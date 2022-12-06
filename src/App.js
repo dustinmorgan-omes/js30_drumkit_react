@@ -81,7 +81,7 @@ function AddSounds(props) {
           }
         }}
       >
-        Save
+        Add
       </button>
     </div>
   );
@@ -90,7 +90,9 @@ function AddSounds(props) {
 function App() {
   const [soundKeyPairs, setSoundKeyPairs] = useState([]);
 
+  //On change, reapply event listener to key elements
   React.useEffect(() => {
+    console.log("hey");
     window.addEventListener("keydown", function (e) {
       const element = document.querySelector(`div[data-key="${e.keyCode}"]`);
       const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
@@ -115,7 +117,7 @@ function App() {
     );
   });
 
-  //Make the .keys div its own component, pass soundKeyPairs as props
+  //To do: Make the .keys div its own component, pass soundKeyPairs as props
   return (
     <div className="App">
       <AddSounds
