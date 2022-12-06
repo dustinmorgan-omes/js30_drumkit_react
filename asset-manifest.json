@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9453c4df.css",
-    "main.js": "/static/js/main.800d345d.js",
-    "static/media/background.jpg": "/static/media/background.b6c880a4adaf4eb971a0.jpg",
-    "static/media/ride.wav": "/static/media/ride.44e6385400f6b7c38f7c.wav",
-    "static/media/openhat.wav": "/static/media/openhat.482e523113fddc21f663.wav",
-    "static/media/boom.wav": "/static/media/boom.d89f41a5296c9cc8d21e.wav",
-    "static/media/tom.wav": "/static/media/tom.52db9c2303efd5360380.wav",
-    "static/media/clap.wav": "/static/media/clap.eb738e5291d099fc97b4.wav",
-    "static/media/hihat.wav": "/static/media/hihat.0273528cafd1985aa0e4.wav",
-    "static/media/snare.wav": "/static/media/snare.3aa3f94341c18d1e00d1.wav",
-    "static/media/kick.wav": "/static/media/kick.1d842c5565abcec54198.wav",
-    "static/media/tink.wav": "/static/media/tink.5b878d5df85f3294ee04.wav",
-    "index.html": "/index.html",
-    "main.9453c4df.css.map": "/static/css/main.9453c4df.css.map",
-    "main.800d345d.js.map": "/static/js/main.800d345d.js.map"
+    "main.css": "/js30_drumkit_react/static/css/main.17571050.css",
+    "main.js": "/js30_drumkit_react/static/js/main.907e8d3f.js",
+    "static/media/background.jpg": "/js30_drumkit_react/static/media/background.b6c880a4adaf4eb971a0.jpg",
+    "static/media/ride.wav": "/js30_drumkit_react/static/media/ride.44e6385400f6b7c38f7c.wav",
+    "static/media/openhat.wav": "/js30_drumkit_react/static/media/openhat.482e523113fddc21f663.wav",
+    "static/media/boom.wav": "/js30_drumkit_react/static/media/boom.d89f41a5296c9cc8d21e.wav",
+    "static/media/tom.wav": "/js30_drumkit_react/static/media/tom.52db9c2303efd5360380.wav",
+    "static/media/clap.wav": "/js30_drumkit_react/static/media/clap.eb738e5291d099fc97b4.wav",
+    "static/media/hihat.wav": "/js30_drumkit_react/static/media/hihat.0273528cafd1985aa0e4.wav",
+    "static/media/snare.wav": "/js30_drumkit_react/static/media/snare.3aa3f94341c18d1e00d1.wav",
+    "static/media/kick.wav": "/js30_drumkit_react/static/media/kick.1d842c5565abcec54198.wav",
+    "static/media/tink.wav": "/js30_drumkit_react/static/media/tink.5b878d5df85f3294ee04.wav",
+    "index.html": "/js30_drumkit_react/index.html",
+    "main.17571050.css.map": "/js30_drumkit_react/static/css/main.17571050.css.map",
+    "main.907e8d3f.js.map": "/js30_drumkit_react/static/js/main.907e8d3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9453c4df.css",
-    "static/js/main.800d345d.js"
+    "static/css/main.17571050.css",
+    "static/js/main.907e8d3f.js"
   ]
 }
